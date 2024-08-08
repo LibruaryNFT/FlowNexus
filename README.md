@@ -2,9 +2,9 @@ This is an open-sourced project built on the Flow blockchain to create and/or te
 
 It's becoming a bit addictive to keep adding to it, and others might find value in the content.
 
-# Demo site:
+# Demo Video:
 
-https://FlowNexus.io/
+[https://FlowNexus.io/](https://www.youtube.com/watch?v=3Q5vJb24q_U)
 
 # Scripts
 
